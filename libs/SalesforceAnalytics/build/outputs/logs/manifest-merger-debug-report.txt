@@ -1,0 +1,43 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceAnalytics\AndroidManifest.xml:3:1-14:12
+INJECTED from D:\FCMPushnotificationsTutorial\libs\SalesforceAnalytics\AndroidManifest.xml:3:1-14:12
+INJECTED from D:\FCMPushnotificationsTutorial\libs\SalesforceAnalytics\AndroidManifest.xml:3:1-14:12
+INJECTED from D:\FCMPushnotificationsTutorial\libs\SalesforceAnalytics\AndroidManifest.xml:3:1-14:12
+INJECTED from D:\FCMPushnotificationsTutorial\libs\SalesforceAnalytics\AndroidManifest.xml:3:1-14:12
+INJECTED from D:\FCMPushnotificationsTutorial\libs\SalesforceAnalytics\AndroidManifest.xml:3:1-14:12
+INJECTED from D:\FCMPushnotificationsTutorial\libs\SalesforceAnalytics\AndroidManifest.xml:3:1-14:12
+	package
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceAnalytics\AndroidManifest.xml:4:2-47
+		INJECTED from D:\FCMPushnotificationsTutorial\libs\SalesforceAnalytics\AndroidManifest.xml
+		INJECTED from D:\FCMPushnotificationsTutorial\libs\SalesforceAnalytics\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceAnalytics\AndroidManifest.xml:6:2-29
+		INJECTED from D:\FCMPushnotificationsTutorial\libs\SalesforceAnalytics\AndroidManifest.xml
+		INJECTED from D:\FCMPushnotificationsTutorial\libs\SalesforceAnalytics\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceAnalytics\AndroidManifest.xml:3:11-69
+	android:versionCode
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceAnalytics\AndroidManifest.xml:5:2-26
+		INJECTED from D:\FCMPushnotificationsTutorial\libs\SalesforceAnalytics\AndroidManifest.xml
+		INJECTED from D:\FCMPushnotificationsTutorial\libs\SalesforceAnalytics\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceAnalytics\AndroidManifest.xml:8:2-64
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceAnalytics\AndroidManifest.xml:8:19-61
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceAnalytics\AndroidManifest.xml:9:2-76
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceAnalytics\AndroidManifest.xml:9:19-73
+uses-sdk
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceAnalytics\AndroidManifest.xml:11:5-47
+INJECTED from D:\FCMPushnotificationsTutorial\libs\SalesforceAnalytics\AndroidManifest.xml:11:5-47
+INJECTED from D:\FCMPushnotificationsTutorial\libs\SalesforceAnalytics\AndroidManifest.xml:11:5-47
+	android:targetSdkVersion
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceAnalytics\AndroidManifest.xml:11:15-44
+	android:minSdkVersion
+		INJECTED from D:\FCMPushnotificationsTutorial\libs\SalesforceAnalytics\AndroidManifest.xml
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceAnalytics\AndroidManifest.xml:11:5-47
+		INJECTED from D:\FCMPushnotificationsTutorial\libs\SalesforceAnalytics\AndroidManifest.xml
+application
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceAnalytics\AndroidManifest.xml:13:5-20

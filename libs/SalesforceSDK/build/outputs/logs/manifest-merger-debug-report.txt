@@ -1,0 +1,237 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:3:1-132:12
+INJECTED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:3:1-132:12
+INJECTED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:3:1-132:12
+INJECTED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:3:1-132:12
+INJECTED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:3:1-132:12
+INJECTED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:3:1-132:12
+INJECTED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:3:1-132:12
+	package
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:4:2-37
+		INJECTED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml
+		INJECTED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:6:2-29
+		INJECTED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml
+		INJECTED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:3:11-69
+	android:versionCode
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:5:2-26
+		INJECTED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml
+		INJECTED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml
+uses-sdk
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:8:5-47
+INJECTED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:8:5-47
+INJECTED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:8:5-47
+	android:targetSdkVersion
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:8:15-44
+	android:minSdkVersion
+		INJECTED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:8:5-47
+		INJECTED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml
+application
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:10:5-119:19
+meta-data#android.content.APP_RESTRICTIONS
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:13:9-14:56
+	android:resource
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:14:13-53
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:13:20-67
+service#com.salesforce.androidsdk.auth.AuthenticatorService
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:17:9-24:19
+	android:exported
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:17:18-41
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:18:13-79
+intent-filter#action:name:android.accounts.AccountAuthenticator
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:19:13-21:29
+action#android.accounts.AccountAuthenticator
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:20:17-80
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:20:25-77
+meta-data#android.accounts.AccountAuthenticator
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:22:13-23:57
+	android:resource
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:23:17-54
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:22:24-76
+activity#com.salesforce.androidsdk.ui.LoginActivity
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:32:9-34:51
+	android:launchMode
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:34:13-48
+	android:theme
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:33:13-64
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:32:19-76
+activity#com.salesforce.androidsdk.ui.PasscodeActivity
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:37:9-39:40
+	android:exported
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:39:13-37
+	android:theme
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:38:13-64
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:37:19-79
+activity#com.salesforce.androidsdk.ui.ManageSpaceActivity
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:42:9-44:67
+	android:excludeFromRecents
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:43:13-46
+	android:theme
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:44:13-64
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:42:19-82
+activity#com.salesforce.androidsdk.ui.ServerPickerActivity
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:47:9-49:67
+	android:excludeFromRecents
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:48:13-46
+	android:theme
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:49:13-64
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:47:19-83
+activity#com.salesforce.androidsdk.ui.AccountSwitcherActivity
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:52:9-54:67
+	android:excludeFromRecents
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:53:13-46
+	android:theme
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:54:13-64
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:52:19-86
+activity#com.salesforce.androidsdk.auth.idp.IDPCodeGeneratorActivity
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:57:9-60:40
+	android:excludeFromRecents
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:58:13-46
+	android:exported
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:60:13-37
+	android:theme
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:59:13-64
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:57:19-93
+activity#com.salesforce.androidsdk.ui.DevInfoActivity
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:63:9-65:40
+	android:exported
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:65:13-37
+	android:theme
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:64:13-64
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:63:19-78
+receiver#com.salesforce.androidsdk.auth.idp.IDPInititatedLoginReceiver
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:68:9-74:20
+	android:exported
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:69:13-36
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:68:19-95
+intent-filter#action:name:com.salesforce.IDP_LOGIN_REQUEST+category:name:android.intent.category.DEFAULT
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:70:13-73:29
+action#com.salesforce.IDP_LOGIN_REQUEST
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:71:17-75
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:71:25-72
+category#android.intent.category.DEFAULT
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:72:17-76
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:72:27-73
+receiver#com.google.android.gms.gcm.GcmReceiver
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:81:9-88:20
+	android:exported
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:82:13-36
+	android:permission
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:83:13-73
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:81:19-72
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:84:13-87:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:85:17-81
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:85:25-78
+category#${applicationId}
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:86:17-61
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:86:27-58
+service#com.salesforce.androidsdk.push.SFDCGcmListenerService
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:90:9-95:19
+	android:exported
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:91:13-37
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:90:18-86
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:92:13-94:29
+service#com.salesforce.androidsdk.push.SFDCInstanceIDListenerService
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:97:9-102:19
+	android:exported
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:98:13-37
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:97:18-93
+intent-filter#action:name:com.google.android.gms.iid.InstanceID
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:99:13-101:29
+action#com.google.android.gms.iid.InstanceID
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:100:17-80
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:100:25-77
+service#com.salesforce.androidsdk.push.SFDCRegistrationIntentService
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:104:9-107:19
+	android:exported
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:106:13-37
+	android:permission
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:105:13-69
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:104:18-93
+receiver#com.salesforce.androidsdk.push.PushService$SFDCRegistrationRetryAlarmReceiver
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:109:9-110:40
+	android:exported
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:110:13-37
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:109:19-111
+service#com.salesforce.androidsdk.push.PushService
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:112:9-114:40
+	android:exported
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:114:13-37
+	android:permission
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:113:13-69
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:112:18-75
+service#com.salesforce.androidsdk.analytics.AnalyticsPublisherService
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:116:9-118:40
+	android:exported
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:118:13-37
+	android:permission
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:117:13-69
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:116:18-94
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:121:5-80
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:121:22-77
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:122:5-71
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:122:22-68
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:123:5-74
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:123:22-71
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:124:5-74
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:124:22-71
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:125:5-68
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:125:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:126:5-82
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:126:22-79
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:127:5-81
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:127:22-78
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:128:5-88
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:128:22-85
+uses-permission-sdk-23#android.permission.USE_FINGERPRINT
+ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:131:5-81
+	android:name
+		ADDED from D:\FCMPushnotificationsTutorial\libs\SalesforceSDK\AndroidManifest.xml:131:29-78

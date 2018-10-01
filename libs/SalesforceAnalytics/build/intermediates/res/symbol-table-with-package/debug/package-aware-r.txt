@@ -1,0 +1,3 @@
+com.salesforce.androidsdk.analytics
+string app_name
+string app_package
